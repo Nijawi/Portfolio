@@ -263,7 +263,7 @@ There is a lot more customisation you can do, and you can find a complete breakd
 
 # Things not covered today
 * Branching (creating experimental branches of your code)
-* Fulling cloning others' code
+* Fulling cloning others' code (this can vary from straightforward to complex)
 * Collaboration
 
 # More Guides
